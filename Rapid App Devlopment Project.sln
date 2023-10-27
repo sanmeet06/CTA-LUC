@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rapid App Devlopment Project", "Rapid App Devlopment Project\Rapid App Devlopment Project.csproj", "{06028127-54E1-426C-AB0D-3C2C0FFE46C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLDataLayer", "SQLDataLayer\SQLDataLayer.csproj", "{19C05DB5-6289-40C7-8A07-B09D63571B94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06028127-54E1-426C-AB0D-3C2C0FFE46C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06028127-54E1-426C-AB0D-3C2C0FFE46C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06028127-54E1-426C-AB0D-3C2C0FFE46C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06028127-54E1-426C-AB0D-3C2C0FFE46C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C05DB5-6289-40C7-8A07-B09D63571B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C05DB5-6289-40C7-8A07-B09D63571B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C05DB5-6289-40C7-8A07-B09D63571B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C05DB5-6289-40C7-8A07-B09D63571B94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28D5E417-C20E-4277-8E31-37ACB910AC5E}
+	EndGlobalSection
+EndGlobal
